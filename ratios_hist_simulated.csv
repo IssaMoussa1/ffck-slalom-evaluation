@@ -1,0 +1,10 @@
+bassin,ratio_name,ratio_value,ratio_sd,n_events
+Vaires-sur-Marne,K1H/C1H,0.9589,0.01,10
+Vaires-sur-Marne,K1F/C1H,1.0648,0.015,14
+Vaires-sur-Marne,C1F/C1H,1.1116,0.02,13
+Pau,K1H/C1H,0.9777,0.01,12
+Pau,K1F/C1H,1.0513,0.015,12
+Pau,C1F/C1H,1.0695,0.02,8
+La Seu d'Urgell,K1H/C1H,0.9724,0.01,19
+La Seu d'Urgell,K1F/C1H,1.0313,0.015,16
+La Seu d'Urgell,C1F/C1H,1.0963,0.02,17
